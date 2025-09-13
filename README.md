@@ -1,4 +1,12 @@
-## Hi there, I'm Jeon. 
+# I'm Jeon!
+
+I'm currently a student majoring in Computer Science & Engineering at Seoul National University, Korea. 
+
+My main interest is Game Development.
+
+Nice to meet you!
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINSEOKIM1)](https://github.com/anuraghazra/github-readme-stats)
 
